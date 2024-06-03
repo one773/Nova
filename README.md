@@ -1,6 +1,11 @@
 # Izanagi
+```solidity
     //////////////////////////////////////////
-    - C++ .
-    - Reverse Engineering Enthusiast.
+    - Solidity (Learning)
+    - Malware Reverse Engineering Enthusiast.
+    - Web3 Enthusiast
+    - Red Team Pentester
+    - Security Researcher
     //////////////////////////////////////////
+```
 # Izanami
